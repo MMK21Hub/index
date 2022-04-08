@@ -1,2 +1,3 @@
-# index
-A categorized list of all my GitHub repos
+# `MMK21Hub/index`
+
+This is a 'homepage' for my code repositories on GitHub.
