@@ -18,7 +18,7 @@ This is a sort of homepage for my code repositories on GitHub.
 - [**KnowledgeBot**](https://github.com/MMK21Hub/KnowledgeBot) - A discord.py bot made for the "Knowledge Base" Discord server. Has some Minecraft-related commands.
 - [**HTML**](https://github.com/MMK21Hub/HTML) - A small collection of web pages, most notably [one for viewing Discord channel exports](https://mmk21hub.github.io/HTML/knowledege-base-archived-channels).
 
-### 🗑️ Uninteresting projects
+### 🗑️ Uninteresting/unfinished projects
 
 - [**Minecraft update tracket**](https://github.com/MMK21Hub/mc-changelogs) - My attempt to learn Vue was a web app for documenting Minecraft updates.
 - [**MC Launcher docs**](https://github.com/MMK21Hub/MCL-docs) - A MkDocs site intended to provide insight into technical parts of the Minecraft Launcher.
