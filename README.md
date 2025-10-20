@@ -7,12 +7,14 @@ This is a sort of homepage for my code repositories on GitHub.
 - [**MMK21Hub/MMK21Hub**](https://github.com/MMK21Hub/MMK21Hub) - A special repository that contains my personal README file, which is visible [at the top of my profile](https://github.com/MMK21Hub#mmk21)
 - [**MMK21Hub/index**](https://github.com/MMK21Hub/index) - This repository! Contains a list of all my other repositories.
 
-## 🌍 Web apps
+## 🌍 Web apps and websites
 
 - [**Hide and Squeak**](https://github.com/MMK21Hub/hide-and-squeak) - Web app for organising a large-scale IRL hide and seek games. [View the online demo.](https://has.slevel.xyz/)
 - [**Minecraft**](https://github.com/MMK21Hub/Minecraft) - An online Minecraft resource pack generator for customising your options background, [available to use for versions 1.14–1.19.4](https://mmk21hub.github.io/Minecraft/Useful/OptionsBGgen/)
+- [**Slevel Blog**](https://github.com/MMK21Hub/slevel-blog) - Personal blog (with occasional posts), and documentation for my homelab's infrastructure. [Give it a read!](https://blog.slevel.xyz/)
 - [**MMK21Hub.github.io**](https://github.com/MMK21Hub/MMK21Hub.github.io) - Contains **Discord Explorer**, a standalone viewer for Discord channel exports. [View the online demo.](https://mmk21hub.github.io/discord-explorer/)
 - [**HTML**](https://github.com/MMK21Hub/HTML) - A small collection of web pages, most notably [one for viewing Discord channel exports](https://mmk21hub.github.io/HTML/knowledege-base-archived-channels).
+- [**Voby + Tailwind template**](https://github.com/MMK21Hub/voby-tailwind) - Template for a modern web app using the Voby JS framework and Tailwind CSS
 
 ## 📊 Observability tools
 
