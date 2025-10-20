@@ -26,6 +26,10 @@ This is a sort of homepage for my code repositories on GitHub.
 - [**Mattermost Watcher**](https://github.com/MMK21Hub/mattermost-watcher) - Statistics for Hack Club's Mattermost instance
 - [**Prometheus exporter template (Python)**](https://github.com/MMK21Hub/anything-watcher-py) - Template for a Prometheus exporter written in Python
 
+## Terminal/CLI tools
+
+- [**Slack Canvas Exporter**](https://github.com/MMK21Hub/slack-canvas-exporter) - Archives Slack canvases as HTML files, and/or provides a HTTP API for getting the HTML representations
+
 ## 🧑‍💻 Other projects
 
 - [**Capitalisation Fixes**](https://github.com/MMK21Hub/Capitalisation-Fixes) - A Minecraft resource pack for perfectionists, powered by a custom Node.js build tool. [Get it from Modrinth!](https://modrinth.com/resourcepack/capitalisation-fixes)
