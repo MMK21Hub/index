@@ -10,6 +10,7 @@ This is a sort of homepage for my code repositories on GitHub.
 ## 🧑‍💻 Projects
 
 - [**Capitalisation Fixes**](https://github.com/MMK21Hub/Capitalisation-Fixes) - A Minecraft resource pack for perfectionists, powered by a custom Node.js build tool. [Get it from Modrinth!](https://modrinth.com/resourcepack/capitalisation-fixes)
+- [**Hide and Squeak**](https://github.com/MMK21Hub/hide-and-squeak) - Web app for organising a large-scale IRL hide and seek games. [View the online demo.](https://has.slevel.xyz/)
 - [**Minecraft**](https://github.com/MMK21Hub/Minecraft) - An online Minecraft resource pack generator for customising your options background, [available to use for versions 1.14–1.19.4](https://mmk21hub.github.io/Minecraft/Useful/OptionsBGgen/)
 - [**MMK21Hub.github.io**](https://github.com/MMK21Hub/MMK21Hub.github.io) - Contains **Discord Explorer**, a standalone viewer for Discord channel exports. [View the online demo.](https://mmk21hub.github.io/discord-explorer/)
 - [**Blurple Control Panel**](https://github.com/MMK21Hub/blurple-control-panel) - A (no-longer-maintained) TUI tool for managing Discord bots. Uses a custom [Discord API client](https://github.com/MMK21Hub/blurple-control-panel/blob/38cfab24c052319f02955e865e36548461196b3f/index.ts#LL18C14-L18C14) and [menu-based UI](https://github.com/MMK21Hub/blurple-control-panel/blob/38cfab24c052319f02955e865e36548461196b3f/index.ts#L122). [View the asciinema demo.](https://asciinema.org/a/474308)
