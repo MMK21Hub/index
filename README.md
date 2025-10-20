@@ -18,13 +18,13 @@ This is a sort of homepage for my code repositories on GitHub.
 
 ## 📊 Observability tools
 
-- [**support-watcher**](https://github.com/MMK21Hub/support-watcher) - Ticket statistics dashboard for the Summer of Making support team, powered by Grafana, Prometheus, and Rust.
-- [**core-watcher**](https://github.com/MMK21Hub/core-watcher) - Simple Prometheus exporter for CPU core usage and related metrics
-- [**govuk-watcher**](https://github.com/MMK21Hub/govuk-watcher) - Prometheus exporter for basic GOV.UK analytics
-- [**daydream-watcher**](https://github.com/MMK21Hub/daydream-watcher) - Scraped sign-up statistics for Hack Club's Daydream hackathon before an official dashboard was available
-- [**som-watcher**](https://github.com/MMK21Hub/som-watcher) - Tracks item stocks and prices in the Summer of Making virtual event
-- [**mattermost-watcher**](https://github.com/MMK21Hub/mattermost-watcher) - Statistics for Hack Club's Mattermost instance
-- [**anything-watcher-py**](https://github.com/MMK21Hub/anything-watcher-py) - Template for a Prometheus exporter written in Python
+- [**Support Watcher**](https://github.com/MMK21Hub/support-watcher) - Ticket statistics dashboard for the Summer of Making support team, powered by Grafana, Prometheus, and Rust.
+- [**Core Watcher**](https://github.com/MMK21Hub/core-watcher) - Simple Prometheus exporter for CPU core usage and related metrics
+- [**GOV.UK Watcher**](https://github.com/MMK21Hub/govuk-watcher) - Prometheus exporter for basic GOV.UK analytics
+- [**Daydream Watcher**](https://github.com/MMK21Hub/daydream-watcher) - Scraped sign-up statistics for Hack Club's Daydream hackathon before an official dashboard was available
+- [**Summer of Making Watcher**](https://github.com/MMK21Hub/som-watcher) - Tracks item stocks and prices in the Summer of Making virtual event
+- [**Mattermost Watcher**](https://github.com/MMK21Hub/mattermost-watcher) - Statistics for Hack Club's Mattermost instance
+- [**Prometheus exporter template (Python)**](https://github.com/MMK21Hub/anything-watcher-py) - Template for a Prometheus exporter written in Python
 
 ## 🧑‍💻 Other projects
 
